@@ -1,4 +1,4 @@
-Spring Cloud provides tools for developers to quickly build some of the common patterns in distributed systems (e.g. configuration management, service discovery, circuit breakers, intelligent routing, micro-proxy, control bus, one-time tokens, global locks, leadership election, distributed sessions, cluster state). 
+Spring Cloud provides tools for developers to quickly build some of the common patterns in distributed systems (e.g. configuration management, service discovery, circuit breakers, intelligent routing, micro-proxy, control bus, short-lived microservices [tasks], and contract testing). 
 
 To get started visit https://start.spring.io[start.spring.io], select your Spring Boot version and the Spring Cloud projects you want to use.
 This will add the corresponding Spring Cloud BOM version to your Maven/Gradle file when you generate the project.
